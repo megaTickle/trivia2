@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159223916183",
+    "project_id": "trivia11a-e8787",
+    "storage_bucket": "trivia11a-e8787.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159223916183:android:f9933161678ca2512bebd2",
+        "android_client_info": {
+          "package_name": "com.example.trivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEGaJ6ilyqil4o7vnnJNBlTHNWyjQ1x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159223916183:android:a6479ab1fc51754a2bebd2",
+        "android_client_info": {
+          "package_name": "com.example.trivia11a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEGaJ6ilyqil4o7vnnJNBlTHNWyjQ1x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
